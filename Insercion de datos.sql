@@ -4,7 +4,6 @@ VALUES
 ('Casamiento', 'Con lluvia se pospone el evento', 'Quinta Los Janos', '13:00:00', '16:00:00'),
 ('Concierto', 'Invitacion de parte de la empresa', 'Cafe Janos', '17:00:00', '19:00:00');
 
-truncate table contrato;
 
 INSERT INTO cliente(Nombre, Apellido, Telefono, Correo_Electronico)
 VALUES
